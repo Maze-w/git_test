@@ -1,0 +1,1 @@
+This is maze-w’s first git project!
